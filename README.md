@@ -1,1 +1,1 @@
-# SignLanguageRecognitionUsingComputerVisionTechniques
+# SignLanguageRecognition
